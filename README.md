@@ -1,6 +1,6 @@
-**Experiment Mod**
+<h1>Experiment Mod</h1>
 
--Current features-
+**Current features**
 
 -New type of dirt
 
